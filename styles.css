@@ -19,7 +19,7 @@ body {
   align-items: center;
 }
 
-.list-item:not(:first-of-type) {
+.list-item:not(:first-child) {
   border-top: none;
 }
 .product-photo {
